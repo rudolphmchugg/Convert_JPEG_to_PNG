@@ -38,3 +38,20 @@ def convertToPNG():
 saveAsButton_PNG = tk.Button(text='Convert JPEG to PNG', command=convertToPNG, bg=bg, fg=fg, font=font)      # Convert button
 canvas1.create_window(150, 180, window=saveAsButton_PNG)
 root.mainloop()
+
+
+/////////////
+//////////
+///////////
+///////////
+////////
+//////////
+//////////
+/////////
+........
+,,,,,,,,,,,
+mmmmmmmmmmmmm
+,,,,,,,,,,,,
+,,,,,,,,
+.........
+/////////////
